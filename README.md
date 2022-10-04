@@ -2,9 +2,7 @@
 12 Advanced Python Projects (Data Science with Pandas) 
 These were Udemy projects, and they cover the full Data Workflow(A-Z).
 Real-World Data is typically not provided in a single or a few text/excel files -> more advanced Data Importing Techniques are required
-
 Real-World Data is large, unstructured, nested and unclean -> more advanced Data Manipulation and Data Analysis/Visualization Techniques are required
-
 Many easy-to-use Pandas methods work best with relatively small and clean Datasets -> real-world Datasets require more General Code (incorporating other Libraries/Modules)
 You can practice tasks below:
 Import (complex and nested) Data from JSON files.
